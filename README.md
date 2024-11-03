@@ -1,4 +1,3 @@
-Excel Dashboard Projects
 Welcome to my collection of Excel Dashboard Projects! This repository contains three unique dashboard solutions developed in Excel, each designed to provide insights and visualizations for different domains: Project Management, Sales Data, and Store Management.
 
 Projects
